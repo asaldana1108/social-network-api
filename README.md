@@ -7,16 +7,14 @@ This app was created to build the back end for a social network using MongoDB an
 https://github.com/asaldana1108/social-network-api 
 
 ## Walkthrough Video
-
+https://drive.google.com/file/d/1ed1AwWBmgSgApNwBGIVdibImJH6O7qxr/view
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Table of Contents (Optional)
+## Table of Contents
 
 * [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 
 ## Installation
