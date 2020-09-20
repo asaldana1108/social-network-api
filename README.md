@@ -1,7 +1,7 @@
 # social-network-api
 
 ## Description 
-This app was created to build the back end for a social network using MongoDB and Mongoose.
+This repo was created to build the back end for a social network using MongoDB and Mongoose.
 
 ## Github Repo URL
 https://github.com/asaldana1108/social-network-api 
@@ -18,7 +18,7 @@ https://drive.google.com/file/d/1ed1AwWBmgSgApNwBGIVdibImJH6O7qxr/view
 * [License](#license)
 
 ## Installation
-Run the following command after cloning the database "npm install".
+Run the following command after cloning the database "npm install" to install dependencies.
 
 ## License
 MIT
